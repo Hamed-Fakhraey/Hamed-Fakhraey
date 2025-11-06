@@ -3,10 +3,8 @@
 <!-- عنوان متحرک -->
 <h1 style="color:#ff0000;">
   👋 سلام دنیا!  
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=435&lines=Welcome+to+My+World!;I'm+Hamed+Fakhraey+❤️‍🔥;Front-End+Developer+%26+Web+Designer" alt="Typing SVG" />
-</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF784&center=true&vCenter=true&width=435&separator=%3C&lines=Hello+World%F0%9F%91%8B%F0%9F%8F%BB%3CI+am+Hamed+;%3C%E2%9A%A1Web+designer+and+developer%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5BF784&center=true&vCenter=true&width=435&separator=%3C&lines=Hello+World%F0%9F%91%8B%F0%9F%8F%BB%3CI+am+Hamed+;%3C%E2%9A%A1Web+designer+and+developer%E2%9A%A1" alt="Typing SVG" /></a>
 ---
 
 ### 🖤 طراح و توسعه‌دهنده‌ی وب | عاشق کدنویسی و خلق طرح‌های خاص ❤️
