@@ -47,10 +47,23 @@
 ---
 
 ### ⚡️ تماس با من
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hamedfakhraey@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#)
+<h3 align="center">⚡️ تماس با من ⚡️</h3>
 
+<p align="center">
+  <a href="mailto:hamedfakhraey@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  ❤️ ساخته‌شده با عشق و کدهای شبانه 😎  
+</p>
 ---
 
 ### ❤️ ساخته‌شده با عشق و کدهای شبانه 😎  
