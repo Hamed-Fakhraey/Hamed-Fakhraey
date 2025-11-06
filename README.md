@@ -3,7 +3,7 @@
 <!-- عنوان متحرک -->
 <h1 style="color:#ff0000;">
   👋 سلام دنیا!  
----
+<hr/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3FF7EA&center=true&vCenter=true&width=435&separator=%3C&lines=Hello+World%F0%9F%91%8B%F0%9F%8F%BB%3CI+am+Hamed+;%3C%E2%9A%A1Web+designer+and+developer%E2%9A%A1" alt="Typing SVG" /></a>
 
 
