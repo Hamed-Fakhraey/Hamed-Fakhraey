@@ -31,6 +31,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed-Fakhraey&layout=compact&theme=radical&hide_border=true)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamed-Fakhraey&show_icons=true&theme=tokyonight&title_color=FF2C2C&icon_color=FF2C2C&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed-Fakhraey&layout=compact&theme=tokyonight&title_color=FF2C2C&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ## 🌌 نقل قول روز
 > «خلاقیت یعنی اینکه به دنیا رنگی بدی که فقط خودت می‌بینی. 🎨»
