@@ -1,16 +1,19 @@
-<div align="center" style="background-color:#000000; padding:20px; border-radius:15px; box-shadow:0 0 30px #ff0000;">
+<div align="center">
 
-<!-- 🔥 افکت خوش‌آمدگویی نئون -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=🔥+Welcome+to+My+Neon+World!+🔥;I'm+Hamed+Fakhraey+❤️‍🔥;Front-End+Developer+%26+Web+Designer;Let's+Code+Something+Awesome!" alt="Typing SVG" />
+<!-- عنوان متحرک -->
+<h1 style="color:#ff0000;">
+  👋 سلام دنیا!  
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=435&lines=Welcome+to+My+World!;I'm+Hamed+Fakhraey+❤️‍🔥;Front-End+Developer+%26+Web+Designer" alt="Typing SVG" />
 </h1>
 
 ---
 
-### 🖤 طراح و توسعه‌دهنده‌ی وب  
-🎯 عاشق ساخت رابط‌های مدرن، نئون، و پرانرژی  
-💻 تمرکز روی HTML, CSS, Bootstrap, JavaScript, و React  
-🐍 تجربه‌ی کار با Python و علاقه‌مند به رشد مداوم 🚀  
+### 🖤 طراح و توسعه‌دهنده‌ی وب | عاشق کدنویسی و خلق طرح‌های خاص ❤️
+
+🎯 تمرکز من روی طراحی مدرن، ریسپانسیو و رابط‌های کاربری جذابه  
+🔥 فعلاً با HTML, CSS, Bootstrap, JavaScript, و React کار می‌کنم  
+🐍 تجربه‌ی قبلی در Python و علاقه‌مند به رشد هر روزی 🚀  
 
 ---
 
@@ -23,14 +26,14 @@
 
 ---
 
-## 🔥 آمار گیت‌هاب من
+## ⚡️ آمار گیت‌هاب من
 ![Hamed-Fakhraey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamed-Fakhraey&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamed-Fakhraey&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🌌 نقل قول روز
-> 💬 «کدنویسی فقط نوشتن نیست، خلق جهانه. هر خط، یه ذره از ذهن ماست.» 💭
+> «خلاقیت یعنی اینکه به دنیا رنگی بدی که فقط خودت می‌بینی. 🎨»
 
 ---
 
@@ -41,7 +44,7 @@
 
 ---
 
-<h3 style="color:#ff0000;">❤️ ساخته‌شده با عشق، شب‌های طولانی و کدهای نئونی 😎</h3>  
+### ❤️ ساخته‌شده با عشق و کدهای شبانه 😎  
 [![GitHub followers](https://img.shields.io/github/followers/Hamed-Fakhraey?style=social)](https://github.com/Hamed-Fakhraey)
 
 </div>
