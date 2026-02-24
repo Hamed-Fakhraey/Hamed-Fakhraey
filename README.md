@@ -27,16 +27,6 @@
 ---
 
 
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamed-Fakhraey&show_icons=true&theme=tokyonight&title_color=FF2C2C&icon_color=FF2C2C&text_color=C9D1D9&bg_color=0D1117&hide_border=true" alt="GitHub stats" />
-</p>
-
-
-
----
-
 ## 🌌 نقل قول روز
 > «خلاقیت یعنی اینکه به دنیا رنگی بدی که فقط خودت می‌بینی. 🎨»
 
@@ -62,8 +52,7 @@
   ❤️ ساخته‌شده با عشق و کدهای شبانه 😎  
 </p>
 ---
-
-### ❤️ ساخته‌شده با عشق و کدهای شبانه 😎  
+ 
 [![GitHub followers](https://img.shields.io/github/followers/Hamed-Fakhraey?style=social)](https://github.com/Hamed-Fakhraey)
 
 </div>
