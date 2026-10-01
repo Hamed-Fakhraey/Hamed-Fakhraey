@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hi, I'm Hamed Fakhraee
+# ⚡ Hi, I'm Hamed Fakhraey
 ### **Frontend Engineer & Systems / Network Enthusiast**
 
 <a href="https://git.io/typing-svg">
