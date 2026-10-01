@@ -1,10 +1,10 @@
 <div align="center">
 
 # ⚡ Hi, I'm Hamed Fakhraee
-### **Frontend Developer & Software/Network Enthusiast**
+### **Frontend Engineer & Systems / Network Enthusiast**
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=615EFC&center=true&vCenter=true&width=500&lines=Building+modern+web+interfaces;React+%2B+TypeScript+%2B+Tailwind;Focused+on+Performance+%26+Clean+Architecture;Always+leveling+up+skills+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=615EFC&center=true&vCenter=true&width=550&lines=Building+modern+web+interfaces+%26+scalable+UIs;React+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Python+development+%26+Network+foundations;Bridging+Frontend+with+Systems+%26+Protocols+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -25,35 +25,35 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Crafting scalable, high-performance web applications with a focus on seamless UI/UX.
-- 🛠️ Deep into the modern frontend ecosystem: **React, TypeScript, Vite, Tailwind CSS**, and robust state/query management.
-- 🌐 Solid background in **Computer Networks & Software Architecture**.
-- 🎯 Passionate about clean code, component-driven design, and developer tooling.
+- 🔭 **Frontend Architecture:** Building responsive, performant, and accessible interfaces with **React, TypeScript, Vite, and Tailwind CSS**.
+- 🐍 **Backend & Scripting:** Practical experience with **Python** for tooling, automation, and backend integration.
+- 🌐 **Networks & Systems:** Diving deep into **Computer Networks (TCP/IP, HTTP/REST, DNS, Routing)** and Linux/WSL environments.
+- 💡 **Mindset:** Understanding how data flows from network packets to browser rendering to deliver optimal web experiences.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Domains
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br/>
-  
-  <!-- Frontend & Styling -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br/>
+<div align="center">
 
-  <!-- Tools & Environment -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux_/_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+#### 🌐 Web & Frontend
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+
+#### ⚙️ Backend & Scripting
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+
+#### 📡 Networking & Infrastructure
+<img src="https://img.shields.io/badge/Computer_Networks-007ACC?style=for-the-badge&logo=cisco&logoColor=white" alt="Networks" />
+<img src="https://img.shields.io/badge/Linux_/_WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+</div>
 
 ---
 
@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
+  <em>“Bridging clean interfaces with solid network foundations.”</em>
 </p>
